@@ -1,0 +1,1 @@
+Success checks could look like having well organized notes of findings and being able to circle back to sources or known evidence. It should also be easy enough to understand at a glance for when you need to go back over something, or someone else needs to read over it. 
