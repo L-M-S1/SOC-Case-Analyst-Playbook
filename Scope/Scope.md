@@ -1,0 +1,1 @@
+My scope includes virtual machines through the netacad assignments, and other virtual machines that I am authorized to use. It is my intention to sanitize any PII that I find within these VMs for the purposes of documentation. I will use Wireshark when authorized to capture packets, and packet tracer to simulate physical systems.
