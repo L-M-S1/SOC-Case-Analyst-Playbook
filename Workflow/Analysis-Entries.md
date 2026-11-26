@@ -1,0 +1,4 @@
+|Question| Method| Evidence ID| Conclusion| Alternative explanation| Next Check|
+|---|---|--|----|---|---|
+|What information is being transmitted via a HTTPS connection and how is it different than HTTP?| Use Wireshark to capture HTTPS traffic, research HTTP traffic| WS3 has evidence of the HTTPS transmission| HTTPS encrypts data sent, while HTTP has session data, host information, client information, and other, non-encrypted information.| A next check could be how can we limit the information that is sent on HTTP, or how we can simply mitigate access to the unsecure connection.|
+|How do workstations Cache ARP information and in what circumstances is that information pulled?| Utilize an environment in packet tracer to isolate the malfunctioning workstation and interpret results of ARP tables.| PT
