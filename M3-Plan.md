@@ -1,0 +1,1 @@
+I intend to clean up my repo, include more evidence where applicable and refine some wording as I go. Incorperate any feedback I receive from Milestone 2, ensure evidence is useful and backs my claims. Milestone three should be putting the polish on, so to speak.
