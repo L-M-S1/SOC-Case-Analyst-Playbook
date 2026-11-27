@@ -2,4 +2,4 @@ Certain steps for a SOC analysis include finding an anomaly, checking it against
 
 The tools I would use for this depends on the OS, assuming Windows, they would be Windows proprietary event logs. If they were Linux, I would use an ELK stack (ElasticSearch, LogStash, and Kibana) 
 
-Ai can be used to assist in sorting through data, determining if escalation should be done, with confirming its beliefs. 
+Ai can be used to assist in sorting through data, determining if escalation should be done, with confirming its beliefs. Any information provided to an AI assistant will be combed over to remove any sensitive information prior to prompting.
